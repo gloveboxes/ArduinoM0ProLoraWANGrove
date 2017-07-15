@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\dglover\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\samd\\1.6.15\\cores\\arduino"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": []
+            },
+            "intelliSenseMode": "msvc-x64"
+        }
+    ]
+}
